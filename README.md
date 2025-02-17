@@ -67,9 +67,8 @@ df.null(n:1)
 This project showcases how **Python** and **Google Colab** can be used to conduct a comprehensive analysis of a dataset. By utilizing tools like **Pandas**, **Matplotlib**, and **Seaborn**, I was able to clean the data, perform exploratory analysis, and create meaningful visualizations. The insights derived from this analysis can guide future decision-making and strategy.
 
 ## 💬 Feedback & Contributions
-
+ChatGPT
 Feel free to open issues or submit pull requests if you have any suggestions, improvements, or feedback. Contributions are welcome!
-
 ---
 
 Thank you for checking out the **Capita Data Analysis** project! 📊🚀
